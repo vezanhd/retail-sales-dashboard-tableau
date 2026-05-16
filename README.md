@@ -5,8 +5,8 @@
 Dashboard analisis penjualan retail yang menampilkan performa penjualan dan profitabilitas produk.
 
 ### Fitur Dashboard
-- **Dashboard Penjualan Retail**: Overview total sales, quantity, profit, dan performa per wilayah
-- **Dashboard Profitabilitas**: Analisis profit, diskon, dan margin per kategori produk
+- **Dashboard Penjualan Retail**: Overview total sales, quantity, dan performa per wilayah
+- **Dashboard Profitabilitas**: Analisis profit dan margin per kategori produk
 - Filter interaktif berdasarkan wilayah, kategori produk, dan periode waktu
 
 ### Tech Stack
